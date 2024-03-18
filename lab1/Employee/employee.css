@@ -1,0 +1,64 @@
+employees {
+    display: block;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    background-color: #f0f0f0;
+}
+
+
+employee {
+    display: block;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+
+name {
+    font-weight: bold;
+    color: #0066cc;
+}
+
+
+phones {
+    display: block;
+    margin-top: 10px;
+}
+
+
+phone {
+    display: block;
+    margin-top: 5px;
+    color: #333;
+}
+
+
+addresses {
+    display: block;
+    margin-top: 10px;
+}
+
+
+address {
+    display: block;
+    margin-top: 5px;
+}
+
+
+street, building, region, city, country {
+    display: block;
+    margin-top: 5px;
+    color: #666;
+}
+
+
+mail {
+    display: block;
+    margin-top: 10px;
+    color: #333;
+}
