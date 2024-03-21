@@ -1,0 +1,55 @@
+<?xml version="1.0"?> 
+<?xml-stylesheet type="text/xsl" href="employee.xsl"?>
+<employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="employee.xsd">
+
+	<employee>
+		<name>Name: Salma Yousry</name>
+		<phones>
+			<phone type="Home">Home:5974823</phone>
+			<phone type="Work">Work:+276645372</phone>
+			<phone type="moblie">Mobile:01243556734</phone>
+		</phones>
+
+		<addresses>
+			<address>
+				<street>street1</street>
+
+				<building>123</building>
+
+				<region>region1</region>
+
+				<city>city1</city>
+
+				<country>country1</country>
+			</address>
+		</addresses>
+
+		<mail>salma@gmail.com</mail>
+	</employee>
+
+	<employee>
+		<name>Name: Salma</name>
+
+		<phones>
+			<phone type="Home">Home:5974823</phone>
+			<phone type="Work">Work:+276645372</phone>
+			<phone type="moblie">Mobile:01243556734</phone>
+		</phones>
+
+		<addresses>
+			<address>
+				<street>street2</street>
+
+				<building>456</building>
+
+				<region>region2</region>
+
+				<city>city2</city>
+
+				<country>country2</country>
+			</address>
+		</addresses>
+
+		<mail>salma@gmail.com</mail>
+	</employee>
+</employees>
